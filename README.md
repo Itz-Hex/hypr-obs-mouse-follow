@@ -2,6 +2,8 @@
 
 A Lua script for OBS Studio that pans a scaled Display Capture to follow the mouse cursor on Hyprland. Ideal for creating smooth zoom-and-follow effects when screen recording or streaming.
 
+![Mouse Follow Example](example.gif)
+
 ## Features
 
 - Smooth following using exponential smoothing
