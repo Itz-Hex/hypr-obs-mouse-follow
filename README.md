@@ -52,6 +52,13 @@ After adding the script in OBS (via `Tools` > `Scripts` > `+`), you'll need to c
 
 I've only tested the script on my 2560x1440 display, however, there's no reason why it wouldn't work on other resolutions.
 
+## Maintenance
+I will be maintaining this script going forward, so get in touch if you have any issues or feature requests.
+
+### Planned features
+- [ ] Shortcut to toggle zoom in/out
+- [ ] Shortcut to toggle following
+
 ## License
 
 [GNU General Public License v3.0](LICENSE)
